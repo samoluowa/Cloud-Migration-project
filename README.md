@@ -1,6 +1,6 @@
 # Cloud-Migration-project
 
-IN this project I will Migrate a package containing Python, Java, and Java ecom applications running from my virtual machine using Ubuntu OS to my AWS Instance, all the packers in the vVM will be automatically migrated to my AWS instance..
+In this project I will Migrate a package containing Python, Java, and Java ecom applications running from my virtual machine using Ubuntu OS to my AWS Instance, all the packages in the VM will be automatically migrated to my AWS instance..
 
 # Steps to accomplish this task:
 
